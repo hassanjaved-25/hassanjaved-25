@@ -76,5 +76,5 @@ Tech Stack: HTML5 CSS3 JavaScript Bootstrap 5 Firebase Local Storage Gemini API.
 
 - **Email:** [datascientisthassan01@gmail.com](mailto:datascientisthassan01@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ds-hassanjaved](https://www.linkedin.com/in/ds-hassanjaved)
-- **GitHub:** [@hassanjaved-25](https://github.com/hassanjaved-25)## Hi there 👋
+- **GitHub:** [@hassanjaved-25](https://github.com/hassanjaved-25)
 
