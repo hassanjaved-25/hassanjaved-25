@@ -55,7 +55,12 @@ I look forward to exploring how data can help solve real-world problems.
 
 ### 💰 FinTrackPlus
 
-Project description, technologies, and repository link will be added soon.
+FinTrack Plus is a smart personal finance tracker and advisor that helps users manage income, expenses, budgets, savings,
+investments, and financial goals in one place. The platform also includes financial reports, investment and compounding
+calculators, and an Al-powered financial assistant named Mark. It uses Firebase for authentication and data storage, with Gemini
+API integration for the Al assistant.
+
+Tech Stack: HTML5 CSS3 JavaScript Bootstrap 5 Firebase Local Storage Gemini API.
 
 ---
 
